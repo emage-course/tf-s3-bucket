@@ -1,0 +1,22 @@
+
+Overview 
+_______________
+1. Launch an S3 Bucket Using Terraform
+1. Upload files to the S3 bucket Using Terraform.
+1. Upload Multiple Files to AWS S3 Using Terraform
+
+**key** - The destination directory where you want to upload the file
+**source** - The source directory from where you want to upload the file
+
+Upload Multiple Files to AWS S3 using Terraform
+
+**Problem**
+Upload multiple files from a specific folder to an AWS S3 bucket.
+
+Assumptions
+S3 bucket name is demo.
+
+Source: documents
+
+Solution
+
